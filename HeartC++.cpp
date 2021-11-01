@@ -14,7 +14,7 @@ int main()
 void ilovesdt()
 {
     system("mode con cols=100 lines=60");
-    system("title HEART FOR YOU!!!");
+    system("title HEART FOR ILYA ШКЛЯРИК!!!");
     system("color 04");
 
     int height = 100, width = 100;
