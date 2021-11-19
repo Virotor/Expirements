@@ -1,0 +1,4 @@
+C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\x64\Debug\ProjectCompliment.vcxproj.AssemblyReference.cache
+C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\x64\Debug\ProjectCompliment.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\x64\Debug\ProjectCompliment.MyForm.resources
+C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\x64\Debug\ProjectCompliment.vcxproj.GenerateResource.cache
