@@ -1,5 +1,2 @@
-﻿  MyForm.cpp
-C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\MyForm.cpp(8,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
-C:\Users\etolo\source\repos\ProjectCompliment\ProjectCompliment\MyForm.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  ProjectCompliment.vcxproj -> C:\Users\etolo\source\repos\ProjectCompliment\x64\Debug\ProjectCompliment.exe
+﻿  Functions.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectCompliment.vcxproj -> E:\SW\SW\TRPO\Expirements\ProjectCompliment\x64\Debug\ProjectCompliment.exe

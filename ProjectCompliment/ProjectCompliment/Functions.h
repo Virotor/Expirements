@@ -1,7 +1,7 @@
 #pragma once
-
-#include <vector>
 #include <string>
-#include <ctime>
+
 
 std::string GetCompliment();
+std::string readClipboard();
+void writeClipdoard(std::string data);

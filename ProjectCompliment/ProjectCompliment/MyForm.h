@@ -95,9 +95,11 @@ namespace ProjectCompliment {
 		}
 #pragma endregion
 	private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-		String^ str = gcnew String(GetCompliment().c_str());
+		std::string data = GetCompliment().c_str();
+		String^ str = gcnew String(data.c_str());
 		richTextBox1->Clear();
 		richTextBox1->AppendText(str);
+		writeClipdoard(data);
 	}
 	};
 }
